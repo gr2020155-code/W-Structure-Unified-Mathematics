@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18148254.svg)](https://doi.org/10.5281/zenodo.18148254)
 # W-Structure: Unified Mathematical Foundations
 
 **Status:** Formal Logical Genesis (Non-Axiomatic)
